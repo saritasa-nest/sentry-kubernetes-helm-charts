@@ -439,8 +439,6 @@ snuba:
     # tolerations: []
     # podLabels: []
     autoOffsetReset: "earliest"
-    maxBatchSize: "3"
-    # maxBatchTimeMs: ""
     # queuedMaxMessagesKbytes: ""
     # queuedMinMessages: ""
     # volumes: []
